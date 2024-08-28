@@ -22,7 +22,7 @@ function guessNumber() {
 }
 
 function guessing() {
-    return Math.floor(Math.random() * 99 + 1)
+    return Math.floor(Math.random() * 100)
 }
 
 function listButtons() {
